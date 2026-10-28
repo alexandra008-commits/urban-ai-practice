@@ -42,3 +42,14 @@ ENV/
 
 # PyCharm env
 .idea
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Local secrets and keys
+.env.*
+*.pem
+*.key
+secrets/
