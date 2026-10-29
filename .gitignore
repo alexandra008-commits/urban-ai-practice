@@ -53,3 +53,5 @@ Thumbs.db
 *.pem
 *.key
 secrets/
+# Кэш учебного исследования: скачивается заново, в репозиторий не нужен
+examples/data/vyborg/cache/

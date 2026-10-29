@@ -1,0 +1,22 @@
+metric,value
+territory,Выборг
+territory_osm_id,1572051
+data_source,OpenStreetMap / Overpass API
+graph_source,OpenStreetMap pedestrian network
+graph_type,walk
+walk_speed_kmh,5.0
+blocksnet_version,1.0.0a9
+blocks_count,1143
+buildings_count,14536
+schools_count,16
+population_total,71811.0
+school_capacity_total,4000.0
+school_capacity_from_osm,0.0
+school_capacity_estimated,4000.0
+schools_with_estimated_capacity,16
+buildings_with_osm_floors_share,0.1333
+median_travel_time_min,106.46
+share_unreachable_pairs,0.0
+provision_strong_mean,0.2089
+provision_weak_mean,0.2089
+area_accessibility_median_min,120.99
